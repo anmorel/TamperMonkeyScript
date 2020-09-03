@@ -1,11 +1,12 @@
 // ==UserScript==
 // @name         Medium
 // @namespace    raymond876
-// @version      0.1
+// @version      0.2
 // @description  try to take over the world!
 // @author       You
 // @match        https://medium.com/*
 // @match        https://itnext.io/*
+// @match        https://blog.gojekengineering.com/*
 // @require https://code.jquery.com/jquery-2.1.1.min.js
 // @grant        GM_openInTab
 // ==/UserScript==
