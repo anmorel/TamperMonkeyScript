@@ -8,7 +8,8 @@
 // @match        https://itnext.io/*
 // @match        https://blog.gojekengineering.com/*
 // @match        https://towardsdatascience.com/* 
-// @require https://code.jquery.com/jquery-2.1.1.min.js
+// @require      https://code.jquery.com/jquery-2.1.1.min.js
+// @updateURL    https://raw.githubusercontent.com/anmorel/TamperMonkeyScript/master/medium.js
 // @grant        GM_openInTab
 // ==/UserScript==
 
