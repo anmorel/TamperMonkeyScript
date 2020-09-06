@@ -7,6 +7,7 @@
 // @match        https://medium.com/*
 // @match        https://itnext.io/*
 // @match        https://blog.gojekengineering.com/*
+// @match        https://towardsdatascience.com/* 
 // @require https://code.jquery.com/jquery-2.1.1.min.js
 // @grant        GM_openInTab
 // ==/UserScript==
